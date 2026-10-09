@@ -12,6 +12,7 @@
 - years: الفرق المتاحة (حالياً 1 إلى 4).
 - الشعار: ضع صورة باسم logo.png بجانب index.html.
 
-النشر على الإنترنت (مطلوب رابط https لكي تعمل الكاميرا):
-- الأسهل: app.netlify.com/drop ← اسحب مجلد attendance-tarbya كله ← تحصل على رابط فوراً.
-- أو GitHub Pages.
+الرابط:
+https://s2800-0.github.io/tarbya-attendance/
+
+أي تعديل يُرفع إلى مستودع GitHub (S2800-0/tarbya-attendance) يظهر على الرابط خلال دقيقة أو دقيقتين.
